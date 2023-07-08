@@ -1,4 +1,4 @@
-from musabotti import bot
+from . import bot
 import subprocess
 
 if __name__ == "__main__":
